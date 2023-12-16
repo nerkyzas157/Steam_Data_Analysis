@@ -3,9 +3,9 @@
 In this project I utilized MySQL for data management, dive into gaming trends, user behavior, and more.
 In future I will implement gathered data insight to Power BI for dynamic visualizations.
 
-*Data was taken from (https://www.kaggle.com/datasets/antonkozyriev/game-recommendations-on-steam/data?select=games.csv).
-*Data was cleaned with Microsoft Excel.
-*SQL was used for data manipulation.
+- Data was taken from (https://www.kaggle.com/datasets/antonkozyriev/game-recommendations-on-steam/data?select=games.csv).
+- Data was cleaned with Microsoft Excel.
+- SQL was used for data manipulation.
 
 ## File definitions:
 
