@@ -1,6 +1,6 @@
 # [Project 1: Steam Data Analysis]
 
-In this project I utilized MySQL for data management, dive into gaming trends, user behavior, and more.
+In this project I utilized MySQL for data management, dived into gaming trends, user behavior, and more.
 In future I will implement gathered data insight to Power BI for dynamic visualizations.
 
 - Data was taken from (https://www.kaggle.com/datasets/antonkozyriev/game-recommendations-on-steam/data?select=games.csv).
