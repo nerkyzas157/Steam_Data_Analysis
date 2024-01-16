@@ -15,15 +15,16 @@ In future I will implement gathered data insight to Power BI for dynamic visuali
 - games.csv is part of the data I used. File lists all games, their reviews and compatibility with platforms.
 - recommendations.csv is part of the data I used. Showcases all reviews and their performance.
 - users.csv is part of the data I used. It shows user relation to number of products they bought and number of reviews they left.
+- Power_BI folder contains background.png and steam_data_analysis_vizualization.pbix. Graphic is used to Power BI background and pbix file showcases analysis in user friendly visuals.
 
 ## Completed Features:
 
 - Loaded Steam data into MySQL database.
 - Conducted SQL analysis on gaming trends.
+- Integrated Power BI to visualize my analysis.
 
 ## Future Work:
 
-- Power BI integration for enhanced visualization.
 - Strengthening SQL skills and exploring Python capabilities.
 
 ## License:
